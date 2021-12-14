@@ -1,0 +1,13 @@
+1. Introduction -> 
+    What is Python.
+    Why Python.
+    Writing Hello World.
+    Concept of variables ->
+        Variable Declaration and Memory Allocation
+    Sequence type Datatypes ->
+        List, Tuple, Set and Dictionary
+    Operators in Python
+    Conditional Statements
+    Loops
+	Functions in python ->
+        Normal void return, returnable functions, and recursive functions
