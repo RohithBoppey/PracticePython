@@ -67,7 +67,7 @@ key = random.randint(1, 6)
 while(current <= size and current + key < size):
     key = random.randint(1, 6)
     current += key
-    print("Key: ", key)
+    print("Dice: ", key)
     current = checkSnake(current)
     current = checkLadder(current)
     print("Current: ", current)
@@ -76,7 +76,7 @@ while(current <= size and current + key < size):
 
 while(current != size and current < size):
     i = random.randint(1, 6)
-    print("Key: ", i)
+    print("Dice: ", i)
     if(current + i == size):
             current = current + i
             print("Current: ", current)
